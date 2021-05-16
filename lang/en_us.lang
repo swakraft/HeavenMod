@@ -1,0 +1,198 @@
+itemGroup.tabHeavenOres=Heaven Ores
+itemGroup.tabHeavenTools=Heaven Tools
+itemGroup.tabHeavenMaterials=Heaven Materials
+itemGroup.tabHeavenDeco=Heaven Deco
+itemGroup.tabHeavenArmor=Heaven Armor
+itemGroup.tabHeavenMachine=Heaven Machine
+itemGroup.tabHeavenNatural=Heaven Natural
+itemGroup.tabHeavenNuriture=Heaven Nuriture
+
+item.copper_ingot.name=Copper Ingot
+item.silver_ingot.name=Silver Ingot
+item.lead_ingot.name=Lead Ingot
+item.tin_ingot.name=Tin Ingot
+item.platinium_ingot.name=Platinium Ingot
+item.nickel_ingot.name=Nickel Ingot
+item.carbon_shard.name=Carbon Shard
+item.bronze_ingot.name=Bronze Ingot 
+item.steel_ingot.name=Steel Ingot 
+item.invar_ingot.name=Invar Ingot 
+item.carbonite_ingot.name=Carbonite Ingot 
+item.mercure_ingot.name=Mercure Ingot
+item.findium_ingot.name=Findium Ingot
+item.cadmium_ingot.name=Cadmium Ingot
+item.uranium_ingot.name=Uranium Ingot
+item.shiny_ingot.name=Shiny Ingot
+item.magnetite_ingot.name=Magnetite Ingot
+item.magic_gem.name=Magic Gem
+
+item.iron_powder.name=Iron Powder
+item.gold_powder.name=Gold Powder
+item.diamond_powder.name=Diamond Powder
+item.copper_powder.name=Copper Powder
+item.silver_powder.name=Silver Powder
+item.lead_powder.name=Lead Powder
+item.tin_powder.name=Tin Powder
+item.platinium_powder.name=Platinium Powder
+item.nickel_powder.name=Nickel Powder
+item.carbon_powder.name=Carbon Powder
+item.bronze_powder.name=Bronze Powder
+item.steel_powder.name=Steel Powder
+item.invar_powder.name=Invar Powder
+item.carbonite_powder.name=Carbonite Powder
+item.mercure_powder.name=Mercure Powder
+item.shiny_powder.name=Shiny Powder
+item.magnetite_powder.name=Magnetite Powder
+item.magic_powder.name=Magic Powder
+
+item.copper_sword.name=Copper Sword
+item.silver_sword.name=Silver Sword
+item.lead_sword.name=Lead Sword
+item.tin_sword.name=Tin Sword
+item.platinium_sword.name=Platinium Sword
+item.carbon_sword.name=Carbon Sword
+item.mercure_sword.name=Mercure Sword
+item.shiny_sword.name=Shiny Sword
+
+item.copper_pickaxe.name=Copper Pickaxe
+item.silver_pickaxe.name=Silver Pickaxe
+item.carbon_pickaxe.name=Carbon Pickaxe
+item.platinium_pickaxe.name=Platinium Pickaxe
+
+item.copper_axe.name=Copper Axe
+item.silver_axe.name=Silver Axe
+item.carbon_axe.name=Carbon Axe
+item.platinium_axe.name=Platinium Axe
+
+item.copper_hoe.name=Copper Hoe
+item.silver_hoe.name=Silver Hoe
+item.carbon_hoe.name=Carbon Hoe
+item.platinium_hoe.name=Platinium Hoe
+
+item.copper_shovel.name=Copper Shovel
+item.silver_shovel.name=Silver Shovel
+item.carbon_shovel.name=Carbon Shovel
+item.platinium_shovel.name=Platinium Shovel
+
+item.copper_helmet.name=Copper Helmet
+item.copper_chestplate.name=Copper Chestplate
+item.copper_leggings.name=Copper Leggings
+item.copper_boots.name=Copper Boots
+item.silver_helmet.name=Silver Helmet
+item.silver_chestplate.name=Silver Chestplate
+item.silver_leggings.name=Silver Leggings
+item.silver_boots.name=Shiny Boots
+item.shiny_helmet.name=Shiny Helmet
+item.shiny_chestplate.name=Shiny Chestplate
+item.shiny_leggings.name=Shiny Leggings
+item.shiny_boots.name=Shiny Boots
+item.platinium_helmet.name=Platinium Helmet
+item.platinium_chestplate.name=Platinium Chestplate
+item.platinium_leggings.name=Platinium Leggings
+item.platinium_boots.name=Platinium Boots
+item.carbon_helmet.name=Carbon Helmet
+item.carbon_chestplate.name=Carbon Chestplate
+item.carbon_leggings.name=Carbon Leggings
+item.carbon_boots.name=Carbon Boots
+item.mercure_helmet.name=Mercure Helmet
+item.mercure_chestplate.name=Mercure Chestplate
+item.mercure_leggings.name=Mercure Leggings
+item.mercure_boots.name=Mercure Boots
+
+item.travel_boots.name=Travel Boots
+item.miner_helmet.name=Miner Helmet
+itm.miner_chestplate.name=Miner Chestplate
+
+item.stone_stick.name=Stone Stick
+item.iron_stick.name=Iron Stick
+item.copper_wire.name=Copper Wire
+item.wire.name=Wire
+item.electronic_part.name=Electronic Part
+item.copper_gear.name=Copper Gear
+item.iron_gear.name=Iron Gear
+item.silver_gear.name=Silver Gear
+item.platinium_gear.name=Platinium Gear
+item.copper_coil.name=Copper Coil
+item.battery.name=Battery
+item.battery_part.name=Battery Part
+item.electric_motor.name=Electric Motor
+item.stator.name=Stator
+
+tile.copper_block.name=Copper Block
+tile.silver_block.name=Silver Block
+tile.lead_block.name=Lead Block
+tile.tin_block.name=Tin Block
+tile.platinium_block.name=Platinium Block
+tile.nickel_block.name=Nickel Block
+tile.carbon_block.name=Carbon Block
+tile.mercure_block.name=Mercure Block
+tile.magnetite_block.name=Magnetite Block
+
+tile.copper_ore.name=Copper Ore
+tile.silver_ore.name=Silver Ore
+tile.lead_ore.name=Lead Ore
+tile.tin_ore.name=Tin Ore
+tile.platinium_ore.name=Platinium Ore
+tile.nickel_ore.name=Nickel Ore
+tile.carbon_ore.name=Carbon Ore
+tile.mercure_ore.name=Mercure Ore
+tile.findium_ore.name=Findium Ore
+tile.cadmium_ore.name=Cadmium Ore
+tile.uranium_ore.name=Uranium Ore
+tile.shiny_ore.name=Shiny Ore
+tile.magnetite_ore.name=Magnetite Ore
+tile.magic_ore.name=Magic Ore
+
+tile.lava_deco_block.name=Lava Lamp
+tile.oak_chair.name=Oak Chair
+tils.oak_table.name=Oak Table
+
+tile.machine_builder.name=Machine Builder
+
+tile.magic_grass.name=Magic Grass
+tile.magic_dirt.name=Magic Dirt
+tile.magic_stone.name=Magic Stone
+
+tile.pink_magic_tree_trunk.name=Pink Magic Tree Trunk
+tile.yellow_magic_tree_trunk.name=Yellow Magic Tree Trunk
+tile.blue_magic_tree_trunk.name=Blue Magic Tree Trunk
+tile.green_magic_tree_trunk.name=Green Magic Tree Trunk
+tile.cherry_tree_trunk.name=Cherry Trunk
+tile.oliver_tree_trunk.name=Oliver Trunk
+
+tile.pink_magic_tree_leaves.name=Pink Magic Tree Leaves
+tile.yellow_magic_tree_leaves.name=Yellow Magic Tree Leaves
+tile.blue_magic_tree_leaves.name=Blue Magic Tree Leaves
+tile.green_magic_tree_leaves.name=Green Magic Tree Leaves
+tile.cherry_tree_leaves.name=Cherry Leaves
+tile.oliver_tree_leaves.name=Oliver Leaves
+
+tile.pink_magic_tree_plank.name=Pink Magic Tree Plank
+tile.yellow_magic_tree_plank.name=Yellow Magic Tree Plank
+tile.blue_magic_tree_plank.name=Blue Magic Tree Plank
+tile.green_magic_tree_plank.name=Green Magic Tree Plank
+tile.cherry_tree_plank.name=Cherry Plank
+tile.oliver_tree_plank.name=Oliver Plank
+
+tile.pink_magic_tree_sapling.name=Pink Magic Tree Sapling 
+tile.yellow_magic_tree_sapling.name=Yellow Magic Tree Sapling
+tile.blue_magic_tree_sapling.name=Blue Magic Tree Sapling
+tile.green_magic_tree_sapling.name=Green Magic Tree Sapling
+tile.cherry_tree_sapling.name=Cherry Sapling
+tile.oliver_tree_sapling.name=Oliver Sapling
+
+tile.pink_magic_grass.name=Pink Magic Grass
+tile.blue_magic_grass.name=Blue Magic Grass
+tile.green_magic_grass.name=Green Magic Grass
+tile.yellow_magic_grass.name=Yellow Magic Grass
+
+item.green_flask.name=Green Flask
+item.blue_flask.name=Blue Flask
+item.pink_flask.name=Pink Flask
+item.yellow_flask.name=Yellow Flask
+
+item.cherry.name=Cherry
+item.olive.name=Olive
+item.olive_cocktail.name=Cocktail Olive
+
+entity.mobTest.name=Test Mob

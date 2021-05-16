@@ -1,0 +1,198 @@
+itemGroup.tabHeavenOres=Heaven Minerais
+itemGroup.tabHeavenTools=Heaven Objects
+itemGroup.tabHeavenMaterials=Heaven Materials
+itemGroup.tabHeavenDeco=Heaven Deco 
+itemGroup.tabHeavenArmor=Heaven Armor
+itemGroup.tabHeavenMachine=Heaven Machine
+itemGroup.tabHeavenNatural=Heaven Natural
+itemGroup.tabHeavenNuriture=Heaven Nuriture
+
+item.copper_ingot.name=Lingot de Cuivre
+item.silver_ingot.name=Lingot d'Argent
+item.lead_ingot.name=Lingot de Plomb
+item.tin_ingot.name=Lingot d'Etain
+item.platinium_ingot.name=Lingot de Platinium
+item.nickel_ingot.name=Lingot de Nickel
+item.carbon_shard.name=Morceau de Carbone
+item.bronze_ingot.name=Lingot de Bronze
+item.steel_ingot.name=Lingot d'Acier
+item.invar_ingot.name=Lingot d'Invar
+item.carbonite_ingot.name=Lingot de Carbonite 
+item.mercure_ingot.name=Lingot de Mercure
+item.findium_ingot.name=Lingot de Findium
+item.cadmium_ingot.name=Lingot de Cadmium
+item.uranium_ingot.name=Lingot d'Uranium
+item.shiny_ingot.name=Lingot Shiny
+item.magnetite_ingot.name=Lingot de Magnetite
+item.magic_gem.name=Gemme Magique
+
+item.iron_powder.name=Poudre de Fer
+item.gold_powder.name=Poudre d'Or
+item.diamond_powder.name=Poudre de Diamant
+item.copper_powder.name=Poudre de Cuivre
+item.silver_powder.name=Poudre d'Argent
+item.lead_powder.name=Poudre de Plomb
+item.tin_powder.name=Poudre d'Etain
+item.platinium_powder.name=Poudre de Platinium
+item.nickel_powder.name=Poudre de Nickel
+item.carbon_powder.name=Poudre de Carbone
+item.bronze_powder.name=Poudre de Bronze
+item.steel_powder.name=Poudre d'Acier
+item.invar_powder.name=Poudre d'Invar
+item.carbonite_powder.name=Poudre de Carbonite 
+item.mercure_powder.name=Poudre de Mercure
+item.shiny_powder.name=Poudre Shiny
+item.magnetite_powder.name=Poudre de Magnetite
+item.magic_powder.name=Poudre Magique
+
+item.copper_sword.name=EpÃ©e en Cuivre
+item.silver_sword.name=EpÃ©e en Argent
+item.lead_sword.name=EpÃ©e en Plomb
+item.tin_sword.name=EpÃ©e en Etain
+item.platinium_sword.name=EpÃ©e en Platinium
+item.carbon_sword.name=EpÃ©e en Carbone
+item.mercure_sword.name=EpÃ©e de Mercure
+item.shiny_sword.name=EpÃ©e Shiny
+
+item.copper_pickaxe.name=Pioche en Cuivre
+item.silver_pickaxe.name=Pioche en Argent
+item.carbon_pickaxe.name=Pioche en Carbone
+item.platinium_pickaxe.name=Pioche en Platinium
+
+item.copper_axe.name=Hache en Cuivre
+item.silver_axe.name=Hache en Argent
+item.carbon_axe.name=Hache en Carbone
+item.platinium_axe.name=Hache en Platinium
+
+item.copper_hoe.name=Houe en Cuivre
+item.silver_hoe.name=Houe en Argent
+item.carbon_hoe.name=Houe en Carbone
+item.platinium_hoe.name=Houe en Platinium
+
+item.copper_shovel.name=Pelle en Cuivre
+item.silver_shovel.name=Pelle en Argent
+item.carbon_shovel.name=Pelle en Carbone
+item.platinium_shovel.name=Pelle en Platinium
+
+item.copper_helmet.name=Casque en Cuivre
+item.copper_chestplate.name=Plastron en Cuivre
+item.copper_leggings.name=Jambières en Cuivre
+item.copper_boots.name=Bottes en Cuivre
+item.silver_helmet.name=Casque en Argent
+item.silver_chestplate.name=Plastron en Argent
+item.silver_leggings.name=Jambières en Argent
+item.silver_boots.name=Bottes en Argent
+item.shiny_helmet.name=Casque Shiny
+item.shiny_chestplate.namePlastron Shiny
+item.shiny_leggings.name=Jambières Shiny
+item.shiny_boots.name=Bottes Shiny
+item.platinium_helmet.name=Casque en Platinium
+item.platinium_chestplate.name=Plastron en Platinium
+item.platinium_leggings.name=Jambièresen Platinium
+item.platinium_boots.name=Bottes en Platinium
+item.carbon_helmet.name=Casque en Carbon
+item.carbon_chestplate.name=Plastron en Carbon 
+item.carbon_leggings.name=Jambières en Carbon
+item.carbon_boots.name=Bottes en Carbon
+item.mercure_helmet.name=Casquec
+item.mercure_chestplate.name=Plastron en Carbon
+item.mercure_leggings.name=Jambières en Carbon
+item.mercure_boots.name=Bottes en Carbon
+
+item.travel_boots.name=Bottes du Voyageur
+item.miner_helmet.name=Casque du Mineur
+itm.miner_chestplate.name=Plastron du Mineur
+
+item.stone_stick.name=Baton en Pierre
+item.iron_stick.name=Baton en Fer
+item.copper_wire.name=Fil de Cuivre
+item.wire.name=Câble
+item.electronic_part.name=Composant Electronique
+item.copper_gear.name=Engrenage en Cuivre
+item.iron_gear.name=Engrenage en Fer
+item.silver_gear.name=Engrenage en Argent
+item.platinium_gear.name=Engrenage en Platinium
+item.copper_coil.name=Bobine de Cuivre
+item.battery.name=Batterie
+item.battery_part.name=Composant de Batterie 
+item.electric_motor.name=Moteur Electrique
+item.stator.name=Stator
+
+
+tile.copper_block.name=Block de Cuivre
+tile.silver_block.name=Block d'Argent
+tile.lead_block.name=Block de Plomb
+tile.tin_block.name=Block d'Etain
+tile.platinium_block.name=Block de Platinium
+tile.carbon_block.name=Block de Carbone
+tile.mercure_block.name=Block de Mercure
+tile.magnetite_block.name=Block de Magnetite
+
+tile.copper_ore.name=Minerais de Cuivre
+tile.silver_ore.name=Minerais d'Argent
+tile.lead_ore.name=Minerais de Plomb
+tile.tin_ore.name=Minerais d'Etain
+tile.platinium_ore.name=Minerais de Platinium
+tile.nickel_ore.name=Minerais de Nickel
+tile.carbon_ore.name=Minerais de Carbone
+tile.mercure_ore.name=Minerais de Mercure
+tile.findium_ore.name=Minerais de Findium
+tile.cadmium_ore.name=Minerais de Cadmium
+tile.uranium_ore.name=Minerais d'Uranium
+tile.shiny_ore.name=Minerais Shiny
+tile.magnetite_ore.name=Minerais de Magnetite
+tile.magic_ore.name=Minerais Magique
+
+tile.lava_deco_block.name=Lampe de Lave
+tile.oak_chair.name=Chaise en Chêne
+tile.oak_table.name=Table en Chêne
+
+tile.machine_builder.name=Assembleur
+
+tile.magic_grass.name=Herbe Magique
+tile.magic_dirt.name=Terre Magique
+tile.magic_stone.name=Pierre Magique
+
+tile.pink_magic_tree_trunk.name=Tronc d'Arbre Magique Rose
+tile.yellow_magic_tree_trunk.name=Tronc d'Arbre Magique Jaune
+tile.blue_magic_tree_trunk.name=Tronc d'Arbre Magique Bleu
+tile.green_magic_tree_trunk.name=Tronc d'Arbre Magique Vert
+tile.cherry_tree_trunk.name=Tronc de Cerisier
+tile.oliver_tree_trunk.name=Tronc d'Olivier
+
+tile.green_magic_tree_leaves.name=Feuilles d'Arbre Magique Vert
+tile.blue_magic_tree_leaves.name=Feuilles d'Arbre Magique Bleu
+tile.yellow_magic_tree_leaves.name=Feuilles d'Arbre Magique Jaune
+tile.pink_magic_tree_leaves.name=Feuilles d'Arbre Magique Rose
+tile.cherry_tree_leaves.name=Feuilles de Cerisier
+tile.oliver_tree_leaves.name=Feuilles d'Olivier
+
+tile.green_magic_tree_plank.name=Planche d'Arbre Magique Vert
+tile.blue_magic_tree_plank.name=Planche d'Arbre Magique Bleu
+tile.yellow_magic_tree_plank.name=Planche d'Arbre Magique Jaune
+tile.pink_magic_tree_plank.name=Planche d'Arbre Magique Rose
+tile.cherry_tree_plank.name=Planche de Cerisier
+tile.cherry_tree_plank.name=Planche d'Olivier
+
+tile.pink_magic_tree_sapling.name=Pousse d'Arbre Magique Rose
+tile.yellow_magic_tree_sapling.name=Pousse d'Arbre Magique Jaune
+tile.blue_magic_tree_sapling.name=Pousse d'Arbre Magique Bleu
+tile.green_magic_tree_sapling.name=Pousse d'Arbre Magique Vert
+tile.cherry_tree_sapling.name=Pousse de Cerisier
+tile.cherry_tree_sapling.name=Pousse d'olivier
+
+tile.pink_magic_grass.name=Herbe Magique Rose
+tile.blue_magic_grass.name=Herbe Magique Bleu
+tile.green_magic_grass.name=Herbe Magique Verte
+tile.yellow_magic_grass.name=Herbe Magique Jaune
+
+item.green_flask.name=Fiole Magique Verte
+item.blue_flask.name=Fiole Magique Bleu
+item.pink_flask.name=Fiole Magique Rose
+item.yellow_flask.name=Fiole Magique Jaune
+
+item.cherry.name=Cerise
+item.olive.name=Olive
+item.olive_cocktail.name=Olive Cocktail
+
+entity.mobTest.name=Mob Test
