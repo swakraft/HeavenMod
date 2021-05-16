@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "axis=y":    { "model": "heaven:green_magic_tree_trunk" },
-        "axis=z":     { "model": "heaven:green_magic_tree_trunk", "x": 90 },
-        "axis=x":     { "model": "heaven:green_magic_tree_trunk", "x": 90, "y": 90 },
-        "axis=none":   { "model": "heaven:green_magic_tree_trunk" }
-    }
-}
