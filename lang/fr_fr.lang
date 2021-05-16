@@ -1,11 +1,11 @@
 itemGroup.tabHeavenOres=Heaven Minerais
-itemGroup.tabHeavenTools=Heaven Objects
-itemGroup.tabHeavenMaterials=Heaven Materials
-itemGroup.tabHeavenDeco=Heaven Deco 
-itemGroup.tabHeavenArmor=Heaven Armor
+itemGroup.tabHeavenTools=Heaven Objets
+itemGroup.tabHeavenMaterials=Heaven Materiaux
+itemGroup.tabHeavenDeco=Heaven DÃ©co
+itemGroup.tabHeavenArmor=Heaven Armures
 itemGroup.tabHeavenMachine=Heaven Machine
-itemGroup.tabHeavenNatural=Heaven Natural
-itemGroup.tabHeavenNuriture=Heaven Nuriture
+itemGroup.tabHeavenNatural=Heaven Nature
+itemGroup.tabHeavenNuriture=Heaven Nourriture
 
 item.copper_ingot.name=Lingot de Cuivre
 item.silver_ingot.name=Lingot d'Argent
@@ -76,37 +76,37 @@ item.platinium_shovel.name=Pelle en Platinium
 
 item.copper_helmet.name=Casque en Cuivre
 item.copper_chestplate.name=Plastron en Cuivre
-item.copper_leggings.name=Jambières en Cuivre
+item.copper_leggings.name=JambiÃ¨res en Cuivre
 item.copper_boots.name=Bottes en Cuivre
 item.silver_helmet.name=Casque en Argent
 item.silver_chestplate.name=Plastron en Argent
-item.silver_leggings.name=Jambières en Argent
+item.silver_leggings.name=JambiÃ¨res en Argent
 item.silver_boots.name=Bottes en Argent
 item.shiny_helmet.name=Casque Shiny
 item.shiny_chestplate.namePlastron Shiny
-item.shiny_leggings.name=Jambières Shiny
+item.shiny_leggings.name=JambiÃ¨res Shiny
 item.shiny_boots.name=Bottes Shiny
 item.platinium_helmet.name=Casque en Platinium
 item.platinium_chestplate.name=Plastron en Platinium
-item.platinium_leggings.name=Jambièresen Platinium
+item.platinium_leggings.name=JambiÃ¨resen Platinium
 item.platinium_boots.name=Bottes en Platinium
 item.carbon_helmet.name=Casque en Carbon
 item.carbon_chestplate.name=Plastron en Carbon 
-item.carbon_leggings.name=Jambières en Carbon
+item.carbon_leggings.name=JambiÃ¨res en Carbon
 item.carbon_boots.name=Bottes en Carbon
-item.mercure_helmet.name=Casquec
+item.mercure_helmet.name=Casque en Mercure
 item.mercure_chestplate.name=Plastron en Carbon
-item.mercure_leggings.name=Jambières en Carbon
+item.mercure_leggings.name=JambiÃ¨res en Carbon
 item.mercure_boots.name=Bottes en Carbon
 
 item.travel_boots.name=Bottes du Voyageur
 item.miner_helmet.name=Casque du Mineur
-itm.miner_chestplate.name=Plastron du Mineur
+item.miner_chestplate.name=Plastron du Mineur
 
 item.stone_stick.name=Baton en Pierre
 item.iron_stick.name=Baton en Fer
 item.copper_wire.name=Fil de Cuivre
-item.wire.name=Câble
+item.wire.name=CÃ¢ble
 item.electronic_part.name=Composant Electronique
 item.copper_gear.name=Engrenage en Cuivre
 item.iron_gear.name=Engrenage en Fer
@@ -144,8 +144,8 @@ tile.magnetite_ore.name=Minerais de Magnetite
 tile.magic_ore.name=Minerais Magique
 
 tile.lava_deco_block.name=Lampe de Lave
-tile.oak_chair.name=Chaise en Chêne
-tile.oak_table.name=Table en Chêne
+tile.oak_chair.name=Chaise en ChÃªne
+tile.oak_table.name=Table en ChÃªne
 
 tile.machine_builder.name=Assembleur
 
